@@ -32,6 +32,9 @@
                 <option value="3">Tercer Trimestre</option>
             </select><br>
             <input type="submit" value="Actualizar">
+
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa omnis sed libero, a itaque et ea odit fugit consequuntur beatae error non, rem animi, sit similique necessitatibus saepe debitis quos?</p>
+
         </form>
     </div>
 
